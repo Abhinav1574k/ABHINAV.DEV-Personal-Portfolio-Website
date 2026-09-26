@@ -1,0 +1,37 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+>
+  <rect
+    width="64"
+    height="64"
+    rx="14"
+    fill="#050806"
+  />
+
+  <path
+    d="M17 19L7 32L17 45"
+    fill="none"
+    stroke="#35f29b"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <path
+    d="M47 19L57 32L47 45"
+    fill="none"
+    stroke="#35f29b"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <path
+    d="M36 14L28 50"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+</svg>
